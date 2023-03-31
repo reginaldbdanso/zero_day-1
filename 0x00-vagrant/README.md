@@ -1,1 +1,0 @@
-Command result for uname
